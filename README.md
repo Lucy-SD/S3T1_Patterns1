@@ -1,0 +1,1 @@
+# S3T3_Patterns1
