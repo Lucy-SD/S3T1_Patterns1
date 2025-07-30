@@ -3,7 +3,9 @@
 **👨‍💻 Author**: Lucy Castro
 
 **🧠 Learning Focus**: Design Patterns (Singleton, Abstract Factory, Command)  
+
 **🛠️ IDE**: IntelliJ IDEA  
+
 **💡 Java SDK**: 21  
 
 ## 📄 Description
